@@ -5,7 +5,7 @@
 ### Graphic Design Projects
 
 [Project 1: Ripped Text Effect]
-<img src="GraffitiWD.png?raw=true"/>
+<img src="images/GraffitiWD.png?raw=true"/>
 
 ---
 [Project 2:Galaxy Cat](/pdf/sample_presentation.pdf)
