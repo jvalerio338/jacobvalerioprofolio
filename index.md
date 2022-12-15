@@ -26,15 +26,16 @@
 ---
 ### My Web Design Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 About Me](https://trinket.io/html/af63aa7503)
+- [Project 2 Tell a Story](https://trinket.io/html/03a50ed2c4)
+- [Project 3 Build a Robot](https://trinket.io/html/fdc577feff))
+- [Project 4 Stickers](https://trinket.io/html/6b4e4557ce)
+- [Project 5 Celebrity project](https://trinket.io/html/0e8b196a2f)
 
 ---
+### My Midterm Project
 
-
+- [Midterm Project - E-commerce](https://jacob-bakery.w3spaces.com)
 
 
 ---
