@@ -16,7 +16,14 @@
 <img src="images/Kobebryant3.jpg?raw=true"/>
 
 ---
+[Project 4: Stencil Art]
+<img src="images/EM.jpg?raw=true"/>
 
+---
+[Project 5: Pop Art]
+<img src="images/popartWD.jpg?raw=true"/>
+
+---
 ### My Web Design Project
 
 - [Project 1 Title](http://example.com/)
