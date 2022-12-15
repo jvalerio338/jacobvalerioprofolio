@@ -4,7 +4,7 @@
 
 ### Graphic Design Projects
 
-[Project 1: Graffiti]
+[Project 1: Graffiti](/pdf/sample_presentation.pdf)
 <img src="images/GraffitiWD.png?raw=true"/>
 
 ---
@@ -16,11 +16,11 @@
 <img src="images/Kobebryant3.jpg?raw=true"/>
 
 ---
-[Project 4: Stencil Art]
+[Project 4: Stencil Art](/pdf/sample_presentation.pdf)
 <img src="images/EM.jpg?raw=true"/>
 
 ---
-[Project 5: Pop Art]
+[Project 5: Pop Art](http://example.com/)
 <img src="images/popartWD.jpg?raw=true"/>
 
 ---
