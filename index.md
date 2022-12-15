@@ -4,16 +4,16 @@
 
 ### Graphic Design Projects
 
-[Project 1: Ripped Text Effect]
+[Project 1: Graffiti]
 <img src="images/GraffitiWD.png?raw=true"/>
 
 ---
-[Project 2:Album Cover](/pdf/sample_presentation.pdf)
+[Project 2:Double Exposure Effect](/pdf/sample_presentation.pdf)
 <img src="images/LBJ.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Ripped Effect](http://example.com/)
+<img src="images/Kobebryant3.jpg?raw=true"/>
 
 ---
 
